@@ -9,6 +9,7 @@ nb:
 - di dalam setiap file sudah ada penjelasan mengenai kode
 - buat 1 folder untuk menampung semua file
 - jika menggunakan xampp pastikan apache dan mysql sudah di start
+- menggunakan Object-oriented programming
 
 # how to connect your php to sql server , i'm using xampp ,  php , and sql ( cara menghubungkan php ke server sql )
 
@@ -21,3 +22,4 @@ note :
 - already write all the explanation of the code
 - create 1 folder to hold all files
 - if using xampp make sure apache and mysql have been started
+- using Object-oriented programming
