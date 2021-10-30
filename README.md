@@ -5,7 +5,9 @@
 3. pelajari db.user.php
 4. pelajari index.php
 
-nb: jika menggunakan xampp pastikan apache dan mysql sudah di start
+nb:
+- buat 1 folder untuk menampung semua file
+- jika menggunakan xampp pastikan apache dan mysql sudah di start
 
 # how to connect your php to sql server , i'm using xampp ,  php , and sql ( cara menghubungkan php ke server sql )
 
@@ -14,4 +16,6 @@ nb: jika menggunakan xampp pastikan apache dan mysql sudah di start
 3. learn db.user.php
 4. learn index.php
 
-note : if using xampp make sure apache and mysql have been started
+note : 
+- create 1 folder to hold all files
+- if using xampp make sure apache and mysql have been started
