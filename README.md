@@ -6,6 +6,7 @@
 4. pelajari index.php
 
 nb:
+- di dalam setiap file sudah ada penjelasan mengenai kode
 - buat 1 folder untuk menampung semua file
 - jika menggunakan xampp pastikan apache dan mysql sudah di start
 
@@ -17,5 +18,6 @@ nb:
 4. learn index.php
 
 note : 
+- already write all the explanation of the code
 - create 1 folder to hold all files
 - if using xampp make sure apache and mysql have been started
