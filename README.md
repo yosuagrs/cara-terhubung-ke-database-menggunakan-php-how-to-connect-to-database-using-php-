@@ -5,9 +5,13 @@
 3. pelajari db.user.php
 4. pelajari index.php
 
+nb: jika menggunakan xampp pastikan apache dan mysql sudah di start
+
 # how to connect your php to sql server , i'm using xampp ,  php , and sql ( cara menghubungkan php ke server sql )
 
 1. create a database or modify the existing git.sql database in the repository
 2. learn db.php
 3. learn db.user.php
 4. learn index.php
+
+note : if using xampp make sure apache and mysql have been started
